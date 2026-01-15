@@ -5,5 +5,8 @@ Table of Contents:
 1. [Assignment 1: Data and Feature Engineering](https://github.com/kiaraspreckley/KiaraSpreckley_DataScience_GenAI_Submission/blob/main/Assignment_1/2_01_data_and_feature_engineering_in_pandas_COMPLETED.ipynb)
 2. [Assignment 2: Joining Data Frames](https://github.com/kiaraspreckley/KiaraSpreckley_DataScience_GenAI_Submission/blob/main/2_02_Joining_DataFrames.ipynb)
 3. [Assignment 3: Calculated Fields, Indexing and Subsetting](https://github.com/kiaraspreckley/KiaraSpreckley_DataScience_GenAI_Submission/blob/main/2_03_Calculated_Fields%2C_Indexing_and_Subsetting.ipynb)
+4. [Assignment 4: Transforms and Concatenation](https://github.com/kiaraspreckley/KiaraSpreckley_DataScience_GenAI_Submission/blob/main/2_04_Transforms_and_Concatenation.ipynb)
+
+
    
 This work is released under the MIT License

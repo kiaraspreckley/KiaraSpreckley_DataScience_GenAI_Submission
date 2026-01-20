@@ -14,9 +14,10 @@ Table of Contents:
 10. [Machine Learning: Full Practice Loan Data](https://github.com/kiaraspreckley/KiaraSpreckley_DataScience_GenAI_Submission/blob/main/Machine_Learning_Full_Practice_Test_Loan_Data.ipynb)
 11. [6.01: Logistic Regression in Pytorch](https://github.com/kiaraspreckley/KiaraSpreckley_DataScience_GenAI_Submission/blob/main/6_01_logistic_regression_in_pytorch_completed.ipynb)
 12. [6.02: Dense Neural Networks 101](https://github.com/kiaraspreckley/KiaraSpreckley_DataScience_GenAI_Submission/blob/main/6_02_DNN_101_Completed.ipynb)
-13. [6.X: Fundamental Mathematics for Deep Learning](https://github.com/kiaraspreckley/KiaraSpreckley_DataScience_GenAI_Submission/blob/main/6_X_fundamental_math_for_DL_Completed.ipynb)
-14. [7.01: Convolutional Neural Networks](https://github.com/kiaraspreckley/KiaraSpreckley_DataScience_GenAI_Submission/blob/main/7_01_convolutional_neural_networks_completed.ipynb)
-15. [8.01: Transformers Backbone and Fine-tuning](https://github.com/kiaraspreckley/KiaraSpreckley_DataScience_GenAI_Submission/blob/main/8_01_Transformer_Backbone_and_Finetuning_Completed.ipynb)
+13. [6.03 ML in Practice](https://github.com/kiaraspreckley/KiaraSpreckley_DataScience_GenAI_Submission/blob/main/6_03_ML_in_practice_completed.ipynb)
+14. [6.X: Fundamental Mathematics for Deep Learning](https://github.com/kiaraspreckley/KiaraSpreckley_DataScience_GenAI_Submission/blob/main/6_X_fundamental_math_for_DL_Completed.ipynb)
+15. [7.01: Convolutional Neural Networks](https://github.com/kiaraspreckley/KiaraSpreckley_DataScience_GenAI_Submission/blob/main/7_01_convolutional_neural_networks_completed.ipynb)
+16. [8.01: Transformers Backbone and Fine-tuning](https://github.com/kiaraspreckley/KiaraSpreckley_DataScience_GenAI_Submission/blob/main/8_01_Transformer_Backbone_and_Finetuning_Completed.ipynb)
 
    
 This work is released under the MIT License
